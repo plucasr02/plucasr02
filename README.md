@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas Rocha.
-### Bem-vindo ao meu github!
+### Bem-vindo ao meu github! Estou no início de minha jornada na área de desenvolvimento e computação.
   
    Sou desenvolvedor e essas são algumas das linguagens de programação que tenho mais afinidade:<br>
    Python, Java, Apex, JavaScript e C#.<br>
