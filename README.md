@@ -2,7 +2,8 @@
 ### Bem-vindo ao meu github!
   
    Sou desenvolvedor e essas são algumas das linguagens de programação que tenho mais afinidade:<br>
-   Apex, Python, Java, JS, HTML, CSS, SQL e SOQL.
+   Python, Java, Apex, JavaScript e C#.<br>
+   Possuo conhecimentos de programação orientada ao objeto(POO) em Python, Java e Apex(Salesforce). Atualmente estou estudando de maneira mais aprofundada JS, C#.
    
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=plucasr02&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plucasr02&layout=compact&theme=tokyonight)
