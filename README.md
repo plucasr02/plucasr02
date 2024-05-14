@@ -17,6 +17,8 @@
 <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
 <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"> 
 <img align="center" alt="Lucas-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+<img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+
 
 <img align="right" alt="Lucas-Hacker" height="40%" width="30%" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 </div>
