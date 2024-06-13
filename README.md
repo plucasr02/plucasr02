@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Lucas Rocha.
-### Bem-vindo ao meu github! Estou no início de minha jornada na área de desenvolvimento e computação.
+### Bem-vindo ao meu github! Estou no início de minha jornada para me tornar um dev.
   
-   Sou desenvolvedor e essas são algumas das linguagens de programação que tenho mais afinidade:<br>
-   Python, Java, Kotlin.<br>
-   Atualmente estudando Flutter, Dart buscando aprimorar conhecimentos nessa área de desenvolvimento voltado a mobile.
+   Sou desenvolvedor e as linguagens de programação que tenho mais afinidade são Python e Java:<br>
+   Estou dedicando a maior parte do meu tempo estudando e me aprofundando na linguagem Python, como também aos frameworks Django e Pandas.<br>
    
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=plucasr02&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plucasr02&layout=compact&theme=tokyonight)
