@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Lucas Rocha.
 ### Bem-vindo ao meu github! Estou no início de minha jornada para me tornar um dev.
-  
-   Sou desenvolvedor frontend e as linguagens de programação que tenho mais afinidade são Python e Java.<br>
-   Estou dedicando a maior parte do meu tempo estudando e me aprofundando nesse grande mundo que é o frontend. Atualmente estou estudando JavaScript e React.<br>
    
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=plucasr02&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plucasr02&layout=compact&theme=tokyonight)
