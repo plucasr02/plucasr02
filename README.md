@@ -7,9 +7,8 @@
 </div>
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-<img align="center" alt="Lucas-SALESFORCE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/> 
-
+<img align="center" alt="Lucas-SALESFORCE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
+<img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
 
 <img align="right" alt="Lucas-Hacker" height="40%" width="30%" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 </div>
